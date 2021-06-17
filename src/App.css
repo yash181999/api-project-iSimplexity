@@ -1,0 +1,28 @@
+.navBar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+.navBar > button {
+  outline: none;
+}
+
+.App{
+  padding : 10px;
+}
+
+.post {
+  padding: 20px;
+  border: 1px solid black;
+  margin-bottom: 10px;
+}
+
+.emails{
+   padding : 20px;
+}
+
+.email{
+  margin-bottom: 10px;
+}
